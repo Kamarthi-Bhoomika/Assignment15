@@ -1,0 +1,15 @@
+﻿Quick sort is a sorting algorithm which uses divide and conquer method to sort the array of elements.
+It uses pivot and partition the array into sub-array to sort the elements.
+
+Time Complexity:
+Best Case: when the pivot element is at the middle of array then we get two equal sub-array then the sorting is faster and takes minimum time to sort the elements.
+Worst Case: When the selected pivot element is smallest or largest element then the sub-array will be unbalanced and it takes maximum time to sort the elements.
+
+Merge Sort is more faster and efficient than quick sort when the array size is smaller.
+And Quick Sort is more faster and efficient than merge sort when the array size is larger.
+
+Advantage of Quick Sort is it is fast and easy to implement
+Disadvantages of Quick Sort is it is unstable
+
+Conclusion: Quick sort uses Divide and conquer to sort the elements.
+Faster way to sort the elements and its average time complexity is O(nlogn).

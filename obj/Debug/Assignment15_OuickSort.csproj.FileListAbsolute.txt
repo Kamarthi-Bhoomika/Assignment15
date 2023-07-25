@@ -1,0 +1,8 @@
+D:\Mphasis\.net\Day12\Assignment15_OuickSort\Assignment15_OuickSort\bin\Debug\Assignment15_OuickSort.exe.config
+D:\Mphasis\.net\Day12\Assignment15_OuickSort\Assignment15_OuickSort\bin\Debug\Assignment15_OuickSort.exe
+D:\Mphasis\.net\Day12\Assignment15_OuickSort\Assignment15_OuickSort\bin\Debug\Assignment15_OuickSort.pdb
+D:\Mphasis\.net\Day12\Assignment15_OuickSort\Assignment15_OuickSort\obj\Debug\Assignment15_OuickSort.csproj.AssemblyReference.cache
+D:\Mphasis\.net\Day12\Assignment15_OuickSort\Assignment15_OuickSort\obj\Debug\Assignment15_OuickSort.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\.net\Day12\Assignment15_OuickSort\Assignment15_OuickSort\obj\Debug\Assignment15_OuickSort.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Day12\Assignment15_OuickSort\Assignment15_OuickSort\obj\Debug\Assignment15_OuickSort.exe
+D:\Mphasis\.net\Day12\Assignment15_OuickSort\Assignment15_OuickSort\obj\Debug\Assignment15_OuickSort.pdb
